@@ -9,7 +9,7 @@ Adds an automatic message above player's head on any weapon change!
 
 ```
 start 3dme
-start tomas_gunme
+start tomas_gunme_v2
 ```
 
 ## By Tomas Kucinskas
